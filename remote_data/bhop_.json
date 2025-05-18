@@ -2,6 +2,27 @@
     "bhop_aso_wood": {
         "Tier": 1
     },
+    "bhop_cobblestone": {
+        "Tier": 1
+    },
+    "bhop_coma": {
+        "Tier": 1
+    },
+    "bhop_dreamworld": {
+        "Tier": 1
+    },
+    "bhop_eazy": {
+        "Tier": 1
+    },
+    "bhop_hilton": {
+        "Tier": 2
+    },
+    "bhop_inch": {
+        "Tier": 2
+    },
+    "bhop_messup": {
+        "Tier": 2
+    },
     "bhop_1derland": {
         "Tier": 1
     },
